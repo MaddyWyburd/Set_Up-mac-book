@@ -1,0 +1,11 @@
+# default branch when cloning
+Branch="master"
+
+# used to organise repos (e.g. matlab, c++, tex)
+Tag=""
+
+# short description
+Text=""
+
+# original project if this is a fork
+Fork=""

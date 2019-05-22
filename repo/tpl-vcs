@@ -1,0 +1,9 @@
+# used to determine URL patterns for repo/wiki
+Type="gitlab"
+
+# used to determine remote URL
+Host="gitlab.com"
+User="jhadida"
+
+# used to set remote name when cloning repos
+Remote="glab"
